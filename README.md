@@ -35,6 +35,5 @@ return 0;
 }
 ```
 # OUTPUT:
- ![Uploading image.png…]()
-
+<img width="1426" height="671" alt="image" src="https://github.com/user-attachments/assets/d4be2524-bacc-4347-a65d-e56b138b8083" />
 # RESULT:
